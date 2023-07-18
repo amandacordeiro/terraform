@@ -1,5 +1,5 @@
-# Terraform
-Automating the Deployment of Networks with Terraform
+# Terraform 
+Automating the Deployment of Networks with Terraform. Configuration with a module to automate the deployment of a custom network with resources using GCP.
 
 - Create a configuration for a custom-mode network
 - Create a configuration for a firewall rule
