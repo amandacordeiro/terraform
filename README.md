@@ -1,4 +1,4 @@
-# erraform
+# Terraform
 Automating the Deployment of Networks with Terraform
 
 - Create a configuration for a custom-mode network
